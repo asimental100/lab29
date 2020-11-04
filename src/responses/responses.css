@@ -1,0 +1,15 @@
+.display {
+  width: 80%;
+  display: block;
+  margin: auto;
+  margin-top: -22px;
+  background-color: cornsilk;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+.display h1 {
+  text-align: center;
+}
